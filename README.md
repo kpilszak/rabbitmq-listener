@@ -7,7 +7,7 @@
 
 ## General info
 This project is a Spring application.  
-The main purpose is to create demo listener for RabbitMQ.  
+The main purpose is to create a demo listener for RabbitMQ.  
 
 ## Technologies
 Project is created with:
